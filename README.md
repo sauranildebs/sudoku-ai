@@ -49,7 +49,7 @@ LCV helps make better decisions during variable assignment, reducing the likelih
 
 It includes a GUI built using the tkinter library. The GUI provides a visually appealing way to solve Sudoku puzzles and has options for choosing different CSP heuristics.
 
-![Sudoku Solver GUI](gui_img)
+![Sudoku Solver GUI](gui_img.png)
 
 ## 7. Usage
 
