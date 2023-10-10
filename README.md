@@ -1,4 +1,4 @@
-# Sudoku Solver with Constraint Satisfaction Problem (CSP)
+# Sudoku Solver using Constraint Satisfaction Problem (CSP)
 
 This Sudoku solver is implemented using the Constraint Satisfaction Problem (CSP) framework. We'll discuss what CSP is and how it can be used to solve Sudoku puzzles. We'll also explore some key techniques employed in this solver.
 
